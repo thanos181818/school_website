@@ -1,5 +1,5 @@
 import React from 'react';
-import { Award, Users, MapPin, Building, Mail } from 'lucide-react';
+import { Award, Users, MapPin, Building, Mail, Calendar as CalendarIcon } from 'lucide-react';
 
 const Alumni = () => {
   return (
